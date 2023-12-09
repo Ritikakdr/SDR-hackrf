@@ -11,6 +11,8 @@ Q.) FM radio flowgraph: Create a flowgraph in GNU Radio Companion like the one i
 
 # Lesson 2
 WX GUI FFT sink is not available in this version Gnu, so we've replaced it with frequency sink.
+Since the whole WX widget is not present, I have replaced it with QT number sink and frequency sink.
+
 # Lesson 3|
 | dB | ratio  |
 |-- |--|
