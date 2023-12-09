@@ -51,5 +51,9 @@ Since the whole WX widget is not present, I have replaced it with QT number sink
 # Lesson 4
 Start with the flowgraph from the [lesson 2](https://greatscottgadgets.com/sdr/2) homework. Add a scope sink.
 -> the scope sink in version 10 is missing
+
+# Lesson 9
+WX GUI FFT sink can be replaced with QT GUI sink
+
 # Lesson 7
 Q.) Launch GNU Radio Companion and locate the block called Quadrature Demod. This block implements the method for frequency demodulation presented in the video. Notice that it takes complex input and produces real-valued (float) output which is a sequence of angles.
